@@ -5,7 +5,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "UObject/ConstructorHelpers.h"
 #include "Engine/StaticMesh.h"
-#include  "Materials/Material.h"
+#include "Materials/Material.h"
 
 // Sets default values
 AFloatingActor::AFloatingActor()
